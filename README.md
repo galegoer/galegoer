@@ -6,7 +6,7 @@ My name is **Eric**, and I'm a software developer. I'm a graduate from the Unive
 
 - 🛠 I have experience with **Python, Java, JavaScript, React, React Native, Django, SQL, Kotlin, Artificial Intelligence, Application Security** and many more technologies.
 - ❤ I'm passionate about building efficient and helpful software solutions to everyday problems.
-- 🎨 Enjoy getting creative with my projects to work
+- 🎨 I enjoy bringing creative ideas to life, developing projects with a clear vision and purpose.
 
 ### Projects Highlights:
 
