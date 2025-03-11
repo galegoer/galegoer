@@ -24,7 +24,7 @@ Here are some projects I have worked and am currently working on:
 
 ### Upcoming Ideas / Goals:
 
-- 🌐 Continuing to update my personal website with weekly blog posts and new features! Also working on hosting my own home server for free!
+- 🌐 Continuing to update my personal website with weekly blog posts and new features! Feel free to check it out **[here](https://galegoer.github.io/)** Also working on hosting my own home server for free!
 - 🥧 Develop something utilizing a raspberry pi or similar appliance to learn how to integrate hardware and software.
 - 📚 Pursuing a [certificate](https://aws.amazon.com/certification/certified-cloud-practitioner/) in AWS to deepen my understanding of cloud computing and infrastructure
 
