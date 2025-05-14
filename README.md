@@ -21,13 +21,6 @@ Here are some projects I have worked and am currently working on:
 - 🤖 Currently working in the industry, specializing in developing Retrieval-Augmented Generation (RAG) systems to augment human workflows. These systems improve efficiency and reduce operational costs while keeping human oversight at the core. I also analyze response quality using various performance metrics to ensure accuracy and reliability.
 - 🔒 Previously worked in the application security field applying DAST and SAST on many in development and in production applications.
 
-
-### Upcoming Ideas / Goals:
-
-- 🌐 Continuing to update my personal website with weekly blog posts and new features! Feel free to check it out **[here](https://galegoer.github.io/)** Also working on hosting my own home server for free!
-- 🥧 Develop something utilizing a raspberry pi or similar appliance to learn how to integrate hardware and software.
-- 📚 Pursuing a [certificate](https://aws.amazon.com/certification/certified-cloud-practitioner/) in AWS to deepen my understanding of cloud computing and infrastructure
-
 ### Connect with me:
 <a href="https://www.linkedin.com/in/eric-galego/" target="blank"><img align="center" src="https://github.com/galegoer/galegoer/blob/main/icons/linkedin.svg" alt="galegoer" height="30" width="30" style="margin-left: 13px"/></a>
 
